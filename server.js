@@ -53,7 +53,14 @@ const products = [
     cover:
       "https://www.apple.com/v/mac-mini/s/images/overview/hero_static__ehi2pbtt5toy_xlarge.jpg",
   },
-
+  {
+    id: "7",
+    name: "Magic Keyboard With Touch ID ",
+    category: "Apple Accessories",
+    price: 6590,
+    cover:
+      "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MMMR3TH?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1645719947890",
+  },
   
 ];
 
